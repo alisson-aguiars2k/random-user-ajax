@@ -17,4 +17,4 @@
 
 ![](./assets/images/random-person-ajax.jpg)
 
-### [Random Person AJAX](https://alisson-aguiars2k.github.io/random-person/) 🔗
+### [Random Person AJAX]( https://alisson-aguiars2k.github.io/random-user-ajax/) 🔗
